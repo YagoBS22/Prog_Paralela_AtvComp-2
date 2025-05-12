@@ -45,7 +45,7 @@ Siga os passos abaixo para rodar o jogo:
 3.  **Inicie o Servidor:**
     * No mesmo terminal (ou em um novo, na mesma pasta), execute o script do servidor:
         ```bash
-        python server_ultra_simple.py
+        python server.py
         ```
     * O servidor começará a "escutar" por conexões na porta `12345` e no endereço `0.0.0.0`. Você verá mensagens no console do servidor indicando que ele está no ar.
 
