@@ -19,10 +19,10 @@
 * **Comunicação:** Cliente e servidor se comunicam usando Sockets TCP/IP, trocando mensagens no formato JSON.
 
 ## Estrutura do Projeto
-├── server.py
-├── client.py
-├── requirements.txt
-└── README.md
+├── server.py \
+├── client.py \
+├── requirements.txt \
+└── README.md \
 
 
 ## Requisitos
